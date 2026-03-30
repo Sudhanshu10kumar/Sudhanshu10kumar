@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Sudhanshu Kumar | Developer & Learner<br>I’m a CSE student with a strong interest in:<br>✔Data Analyst<br>✔ Full-Stack Web Development<br>✔ Modern JavaScript (ES6+)<br>✔ React & UI Components<br>✔ C /C++ & Python Programming<br>✔ Automation using Python<br>✔ Git, Linux, and Command-line tools<br><br>I believe in building projects, learning by doing, and improving every day.<br>Let's connect and grow together!
+Sudhanshu Kumar | Developer & Learner<br>I’m a CSE student with a strong interest in:<br>✔C#<br>✔ASP.Net<br>✔Data Analyst<br>✔ Full-Stack Web Development<br>✔ Modern JavaScript (ES6+)<br>✔ React & UI Components<br>✔ C /C++ & Python Programming<br>✔ Automation using Python<br>✔ Git, Linux, and Command-line tools<br><br>I believe in building projects, learning by doing, and improving every day.<br>Let's connect and grow together!
 
 
 ## 🌐 Socials:
